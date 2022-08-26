@@ -1,0 +1,3 @@
+auth-demo:
+ loginurl: login url
+ authurl: bu auth url
